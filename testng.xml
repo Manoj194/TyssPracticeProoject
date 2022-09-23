@@ -3,6 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
+      <class name="tyss.PracticeProjectSDET40.PracticeTestCase4"/>
       <class name="tyss.PracticeProjectSDET40.PracticeTestCase1"/>
       <class name="tyss.PracticeProjectSDET40.PracticeTestCase3"/>
       <class name="tyss.PracticeProjectSDET40.PracticeTestCase2"/>
